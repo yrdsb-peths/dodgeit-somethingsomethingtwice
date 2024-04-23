@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Hero","l":"act()"},{"p":"<Unnamed>","c":"Hero","l":"addedToWorld()"},{"p":"<Unnamed>","c":"Hero","l":"Hero()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"MyWorld","l":"MyWorld()","u":"%3Cinit%3E()"}];updateSearchResults();
