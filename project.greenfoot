@@ -2,6 +2,7 @@
 class.Bomb.image=bomb.png
 class.Death.image=skull.png
 class.Hero.image=man01.png
+class.MyWorld.image=cell.jpg
 dependency1.from=MyWorld
 dependency1.to=Hero
 dependency1.type=UsesDependency
