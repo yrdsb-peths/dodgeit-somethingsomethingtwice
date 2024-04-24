@@ -14,4 +14,10 @@ public class MyWorld extends World
         Hero hero = new Hero();
         addObject(hero, 300, 200);
     }
+    
+    public void started() {
+        Bomb bomb = new Bomb();
+        addObject(bomb, 600, 0);
+        bomb.resetBomb();
+    }
 }
