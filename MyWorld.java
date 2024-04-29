@@ -26,6 +26,8 @@ public class MyWorld extends World
     public void act() {
         if (hero.getWorld() != null)
             score++;
+        else
+            showText("GAME OVER", 300, 200);
         showText(String.valueOf(score), 300, 32);
     }
 }
